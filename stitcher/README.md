@@ -8,7 +8,7 @@ It can be used as generating the panorama by different images.
 
 Before the cmake, you have to make sure the opencv and its contirb(extra modules) installed.
 
-'''sh
+'''{r, engine='bash', count_lines}
 git clone https://github.com/Itseez/opencv.git
 git clone https://github.com/Itseez/opencv_contrib.git
 cd opencv
