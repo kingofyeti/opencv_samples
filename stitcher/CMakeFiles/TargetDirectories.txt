@@ -1,0 +1,3 @@
+/home/virtualbloks/github/opencv_samples/stitcher/CMakeFiles/rebuild_cache.dir
+/home/virtualbloks/github/opencv_samples/stitcher/CMakeFiles/edit_cache.dir
+/home/virtualbloks/github/opencv_samples/stitcher/CMakeFiles/stitcher.dir
