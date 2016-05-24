@@ -3,8 +3,10 @@
 This is a sample stitcher fetched from opencv/samples.
 It can be used as generating the panorama by different images.
 
-`cmake . && make`
-`./stitcher Univ_images/#.jpg`
+```{r, engine='bash', count_lines}
+cmake . && make
+./stitcher Univ_images/#.jpg
+```
 
 Before the cmake, you have to make sure the opencv and its contirb(extra modules) installed.
 
